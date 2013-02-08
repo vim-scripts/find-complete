@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4426
+
+A simple vim plugin to find files on path with filename auto-complete functionality.  Adds new cmd to use (:F) instead of :find.  You can tab a partial filename to complete it.
